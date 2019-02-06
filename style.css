@@ -1,0 +1,34 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-size: 62.5%;
+  color: white;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url(header.jpg);
+  background-size: 100%;
+}
+
+.mx-auto {
+  font-size: 1.6rem;
+  padding-top: 35vh;
+  text-align: center;
+}
+
+.mybtn {
+  background-color: #ff6347;
+  border-color: #ff6347;
+  margin-top: 17vh;
+  border-radius: 15px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+}
+
+.mybtn:hover {
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
